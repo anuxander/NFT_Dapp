@@ -2,13 +2,13 @@ import { useState, useEffect } from 'react';
 import { ethers } from "ethers";
 
 //CHANGE THE FILE NAME HERE TO MATCH THAT OF YOUR CONTRACT
-import abi from "./contracts/CadenaNFTS.json";
+import abi from "./contracts/JKNFT.json";
 import nftMetaData from "./nft_metadata.json";
 
 function App() {
 
   //INSERT YOUR CONTRACT ADDRESS HERE
-  const contractAddress = 'INSERT_YOUR_CONTRACT_ADDRESS_HERE';
+  const contractAddress = '0x8810d51929Ca90101402Ec8b0034aF210daCA470';
   const contractABI = abi.abi;
 
   const [isWalletConnected, setIsWalletConnected] = useState(false);
@@ -65,7 +65,7 @@ function App() {
         const nftContract = new ethers.Contract(contractAddress, contractABI, signer);
 
         //INSERT THE CID FROM PINATA FROM YOUR JSON FOLDER HERE
-        const metadataURI = `https://gateway.pinata.cloud/ipfs/INSERT_YOUR_JSON_CID_HERE/${tokenId}.json`
+        const metadataURI = `https://gateway.pinata.cloud/ipfs/QmRqcPNhp6jyvgBYyZpaQBiaBXWN5hcwrN8TiDu4zSU4CN/${tokenId}.json`
         console.log(metadataURI);
         const txn = await nftContract.safeMint(yourWalletAddress, metadataURI, {
           value: ethers.utils.parseEther('0.001'),

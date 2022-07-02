@@ -1,3 +1,602 @@
-// IMPORT YOUR METADATA FILE HERE FROM HASHLIPS ART ENGINE
-// FILE IS LOCATED IN THE BUILD/JSON/_metadata.json
-// REMOVE THESE COMMENTS
+[
+    {
+      "name": "JK #1",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/1.png",
+      "dna": "4ff8cff4300bb5fec135cf6ef67edd1c9b0ebc61",
+      "edition": 1,
+      "date": 1656757378744,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg3"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front3"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #2",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/2.png",
+      "dna": "7334decb871ae97cd489c953641c6d9e9fd1097a",
+      "edition": 2,
+      "date": 1656757379457,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg1"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front5"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #3",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/3.png",
+      "dna": "7e57ded09d2834dcd65e96f4902b2bb47e609014",
+      "edition": 3,
+      "date": 1656757379832,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg1"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front6"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #4",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/4.png",
+      "dna": "2c38e93838b533264d328ae5d0537b4e18c7b972",
+      "edition": 4,
+      "date": 1656757380975,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg3"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front7"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #5",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/5.png",
+      "dna": "2a8e42cdf12cf6b9be2c8ca9a7c8f965d2e883a4",
+      "edition": 5,
+      "date": 1656757381519,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg4"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front7"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #6",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/6.png",
+      "dna": "5052c8b04d9e53f0228f43dcabad8dbbeb497ed5",
+      "edition": 6,
+      "date": 1656757382816,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg7"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front7"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #7",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/7.png",
+      "dna": "7732874f0e6d93081b68ff5712790119a6e76ce0",
+      "edition": 7,
+      "date": 1656757383944,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg5"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front7"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #8",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/8.png",
+      "dna": "a39bf2750d7dec6f8a4f000c2ab2c2c195085c7f",
+      "edition": 8,
+      "date": 1656757384642,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg1"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front2"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #9",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/9.png",
+      "dna": "d6e7648ca098e9986fb8f5ae4f61f303ce229958",
+      "edition": 9,
+      "date": 1656757386096,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg7"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front2"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #10",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/10.png",
+      "dna": "bce27c288cb2892d6d9b94eedb5272b41e3442e2",
+      "edition": 10,
+      "date": 1656757387562,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg7"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front5"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #11",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/11.png",
+      "dna": "7be605db845d13d08a72577f9e50a3884c4fac0f",
+      "edition": 11,
+      "date": 1656757388655,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg3"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front4"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #12",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/12.png",
+      "dna": "4cdf713760fc9af87295ab19891807e024eb0bb1",
+      "edition": 12,
+      "date": 1656757390070,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg5"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front5"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #13",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/13.png",
+      "dna": "408c53f6e3c891b0e7824296f78204315cca5d55",
+      "edition": 13,
+      "date": 1656757391299,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg5"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front4"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #14",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/14.png",
+      "dna": "9eda0ba8827e6d298a24472c496128b9d449dc44",
+      "edition": 14,
+      "date": 1656757392705,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg3"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front5"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #15",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/15.png",
+      "dna": "9964b2ecc71f69cd31ab9b1351f487cb092553b5",
+      "edition": 15,
+      "date": 1656757393579,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg6"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front6"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #16",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/16.png",
+      "dna": "d8c92cc1b39eaf610859383430da938b6b5baf4a",
+      "edition": 16,
+      "date": 1656757394232,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg1"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front1"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #17",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/17.png",
+      "dna": "624738af2a34ac3ac090e178ec7998897e4e40a1",
+      "edition": 17,
+      "date": 1656757395253,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg7"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front3"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #18",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/18.png",
+      "dna": "cbf4548d276dc0fb69f021ee9a485614d218389b",
+      "edition": 18,
+      "date": 1656757396657,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg7"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front1"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #19",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/19.png",
+      "dna": "a111139069138193f8ea1051b2da070042de2bf1",
+      "edition": 19,
+      "date": 1656757397664,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg2"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front2"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #20",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/20.png",
+      "dna": "9f59cebba0c1de7187e4bb1e633c6b991a77cf13",
+      "edition": 20,
+      "date": 1656757398618,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg2"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front1"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #21",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/21.png",
+      "dna": "2343422cd640f226410eb8f9e2cf396f09048efc",
+      "edition": 21,
+      "date": 1656757399566,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg5"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front3"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #22",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/22.png",
+      "dna": "269c71c0014139d6dabf10c7c8ad64ea0d885ce9",
+      "edition": 22,
+      "date": 1656757400216,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg2"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front6"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #23",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/23.png",
+      "dna": "9065fde55310913c6b5a4b22ed20c3d3321efeb2",
+      "edition": 23,
+      "date": 1656757401161,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg6"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front3"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #24",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/24.png",
+      "dna": "ac6a373e69b01a1b48e9fdf2e1f42d63f6326497",
+      "edition": 24,
+      "date": 1656757401663,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg4"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front4"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #25",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/25.png",
+      "dna": "fb2a2b976c077d67309b8ea6f89da19074c9cd90",
+      "edition": 25,
+      "date": 1656757402585,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg2"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front7"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #26",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/26.png",
+      "dna": "3f66bf6c508d54beb3da2cafb510ac3bf3fba5d9",
+      "edition": 26,
+      "date": 1656757403412,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg4"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front2"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #27",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/27.png",
+      "dna": "6a613e0b199d99f2629595677f8af1e426bbcd09",
+      "edition": 27,
+      "date": 1656757404773,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg5"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front2"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #28",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/28.png",
+      "dna": "35b15579443c6ee3a047b2c3b717cecba7f5149c",
+      "edition": 28,
+      "date": 1656757405279,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg1"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front7"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #29",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/29.png",
+      "dna": "2e64f2e948c2055d52d4e2b07b4230fb8a1f1fff",
+      "edition": 29,
+      "date": 1656757406142,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg4"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front1"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "JK #30",
+      "description": "JK NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdc7C248S6QJ9tKC4Gd4vU7fGRg1JSUJt8Acomm39bkoJ/30.png",
+      "dna": "ff85e1d31e221ebf08bd36a609cd1ef550cb38c5",
+      "edition": 30,
+      "date": 1656757407237,
+      "artist": "JimmyKong",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "bg6"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "front7"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    }
+  ]
